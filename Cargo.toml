@@ -1,5 +1,5 @@
 [package]
-name = "std-read"
+name = "std_read"
 version = "0.1.0"
 authors = ["Adel Urazov <39420242+AdelUrazov@users.noreply.github.com>"]
 edition = "2018"
